@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This is a code repository for the corresponding application. In this video, it's about full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+This is a code repository for the corresponding application. It's about a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
 
 This is a react chat app using [https://chatengine.io](https://chatengine.io)
 
